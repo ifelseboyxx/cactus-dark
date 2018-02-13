@@ -4,7 +4,7 @@ nav:
   articles: /archives/
   # projects: http://github.com/probberechts
 
-projects_url: http://github.com/probberechts
+# projects_url: http://github.com/probberechts
 
 customize:
     gravatar:
