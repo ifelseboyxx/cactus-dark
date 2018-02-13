@@ -1,8 +1,8 @@
 nav:
   home: /
-  about: /about/
+  # about: /about/
   articles: /archives/
-  projects: http://github.com/probberechts
+  # projects: http://github.com/probberechts
 
 projects_url: http://github.com/probberechts
 
@@ -13,26 +13,28 @@ customize:
         enabled: true
         width: 50
         height: 50
-        url: /images/logo.png
+        url: /images/red.png
         gravatar: false
     favicon: 
       # eg. generate with http://realfavicongenerator.net/
       desktop:
-        url: /images/favicon.ico
-        gravatar: false
+        url: /images/red.ico
+        gravatar: true
       android:
-        url: /images/favicon-192x192.png
+        url: /images/red.png
         gravator: false
       apple:
-        url: /images/apple-touch-icon.png
+        url: /images/red.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: https://github.com/ifelseboyxx
+        weibo: https://weibo.com/6463284952/profile?rightmod=1&wvr=6&mod=personinfo
+        # Google: 
+        # twitter: /
+        # facebook: /
+        # linkedin: /
     show_all_posts: false
-    post_count: 5
+    post_count: 10
     highlight: rainbow
 
 # RSS
